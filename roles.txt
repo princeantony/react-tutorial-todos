@@ -1,0 +1,24 @@
+Responsible for the design and quality of the components, applications, solution and system. Ensures design reviews and code reviews are completed. Associates in this role must have a thorough understanding of requirements and a deep understanding of software engineering domains. You may code complex areas and ensures follow-up is completed on action items for technical design reviews. Shold accountable that quality applications are developed to meet specified business needs. 
+
+Key Responsibilities: 
+
+Accountable for software design and code quality.
+Makes architectural decisions.
+Utilizes development languages and tools to create and implement design.
+Demonstrates continuous professional and technical development.
+Maintains integrity of architecture.
+Task management ensures on time delivery.
+Collaborates with Solution Management to develop functional work flows and business rules.
+Creates high level technical design for use by Software Engineer.
+Understands technology and industry. Brings in innovative ideas and applies them to add value.
+Participates in review meetings as necessary; requirements, design, code, and test case.
+Actively participates in the continuous improvement of software development process; performs root cause analysis, identifies problem areas, and makes 
+recommendations for improvement.
+Communication and knowledge sharing within and across team(s).
+Provides mentoring to team members.
+Follows the defined development / implementation process.
+Understands dependencies and how individual contributions impact larger vision picture.
+Performs other responsibilities as needed.
+Takes appropriate action to prevent and report any compromises of security within scope of role.
+Follows Cerner policies, upholds professional standards, and performs all work in a manner respectful of others.
+
